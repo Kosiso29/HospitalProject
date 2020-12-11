@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/projectreact/static/css/main.2679f964.chunk.css",
-    "main.js": "/projectreact/static/js/main.0dd29a4e.chunk.js",
-    "main.js.map": "/projectreact/static/js/main.0dd29a4e.chunk.js.map",
-    "runtime-main.js": "/projectreact/static/js/runtime-main.04b957d6.js",
-    "runtime-main.js.map": "/projectreact/static/js/runtime-main.04b957d6.js.map",
-    "static/css/2.23fdb708.chunk.css": "/projectreact/static/css/2.23fdb708.chunk.css",
-    "static/js/2.01c40475.chunk.js": "/projectreact/static/js/2.01c40475.chunk.js",
-    "static/js/2.01c40475.chunk.js.map": "/projectreact/static/js/2.01c40475.chunk.js.map",
-    "index.html": "/projectreact/index.html",
-    "precache-manifest.b7ac14c04a60ee53309b27d0beb1ef6d.js": "/projectreact/precache-manifest.b7ac14c04a60ee53309b27d0beb1ef6d.js",
-    "service-worker.js": "/projectreact/service-worker.js",
-    "static/css/2.23fdb708.chunk.css.map": "/projectreact/static/css/2.23fdb708.chunk.css.map",
-    "static/css/main.2679f964.chunk.css.map": "/projectreact/static/css/main.2679f964.chunk.css.map",
-    "static/js/2.01c40475.chunk.js.LICENSE.txt": "/projectreact/static/js/2.01c40475.chunk.js.LICENSE.txt",
-    "static/media/Signin.css": "/projectreact/static/media/signin.cdd5a3bc.png"
+    "main.css": "/HospitalProject/static/css/main.efb6fb47.chunk.css",
+    "main.js": "/HospitalProject/static/js/main.7b49cc63.chunk.js",
+    "main.js.map": "/HospitalProject/static/js/main.7b49cc63.chunk.js.map",
+    "runtime-main.js": "/HospitalProject/static/js/runtime-main.a8f0d48d.js",
+    "runtime-main.js.map": "/HospitalProject/static/js/runtime-main.a8f0d48d.js.map",
+    "static/css/2.23fdb708.chunk.css": "/HospitalProject/static/css/2.23fdb708.chunk.css",
+    "static/js/2.01c40475.chunk.js": "/HospitalProject/static/js/2.01c40475.chunk.js",
+    "static/js/2.01c40475.chunk.js.map": "/HospitalProject/static/js/2.01c40475.chunk.js.map",
+    "index.html": "/HospitalProject/index.html",
+    "precache-manifest.9f5bf5283f6731b5f2bea877828beab4.js": "/HospitalProject/precache-manifest.9f5bf5283f6731b5f2bea877828beab4.js",
+    "service-worker.js": "/HospitalProject/service-worker.js",
+    "static/css/2.23fdb708.chunk.css.map": "/HospitalProject/static/css/2.23fdb708.chunk.css.map",
+    "static/css/main.efb6fb47.chunk.css.map": "/HospitalProject/static/css/main.efb6fb47.chunk.css.map",
+    "static/js/2.01c40475.chunk.js.LICENSE.txt": "/HospitalProject/static/js/2.01c40475.chunk.js.LICENSE.txt",
+    "static/media/Signin.css": "/HospitalProject/static/media/signin.cdd5a3bc.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.04b957d6.js",
+    "static/js/runtime-main.a8f0d48d.js",
     "static/css/2.23fdb708.chunk.css",
     "static/js/2.01c40475.chunk.js",
-    "static/css/main.2679f964.chunk.css",
-    "static/js/main.0dd29a4e.chunk.js"
+    "static/css/main.efb6fb47.chunk.css",
+    "static/js/main.7b49cc63.chunk.js"
   ]
 }
