@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/projectreact/static/css/main.2679f964.chunk.css",
-    "main.js": "/projectreact/static/js/main.0dd29a4e.chunk.js",
-    "main.js.map": "/projectreact/static/js/main.0dd29a4e.chunk.js.map",
+    "main.css": "/projectreact/static/css/main.a3d67d4e.chunk.css",
+    "main.js": "/projectreact/static/js/main.6e9ad5f7.chunk.js",
+    "main.js.map": "/projectreact/static/js/main.6e9ad5f7.chunk.js.map",
     "runtime-main.js": "/projectreact/static/js/runtime-main.04b957d6.js",
     "runtime-main.js.map": "/projectreact/static/js/runtime-main.04b957d6.js.map",
     "static/css/2.23fdb708.chunk.css": "/projectreact/static/css/2.23fdb708.chunk.css",
-    "static/js/2.01c40475.chunk.js": "/projectreact/static/js/2.01c40475.chunk.js",
-    "static/js/2.01c40475.chunk.js.map": "/projectreact/static/js/2.01c40475.chunk.js.map",
+    "static/js/2.fef58ad5.chunk.js": "/projectreact/static/js/2.fef58ad5.chunk.js",
+    "static/js/2.fef58ad5.chunk.js.map": "/projectreact/static/js/2.fef58ad5.chunk.js.map",
     "index.html": "/projectreact/index.html",
-    "precache-manifest.b7ac14c04a60ee53309b27d0beb1ef6d.js": "/projectreact/precache-manifest.b7ac14c04a60ee53309b27d0beb1ef6d.js",
+    "precache-manifest.54d9b9647baeff33bedd764938575fb0.js": "/projectreact/precache-manifest.54d9b9647baeff33bedd764938575fb0.js",
     "service-worker.js": "/projectreact/service-worker.js",
     "static/css/2.23fdb708.chunk.css.map": "/projectreact/static/css/2.23fdb708.chunk.css.map",
-    "static/css/main.2679f964.chunk.css.map": "/projectreact/static/css/main.2679f964.chunk.css.map",
-    "static/js/2.01c40475.chunk.js.LICENSE.txt": "/projectreact/static/js/2.01c40475.chunk.js.LICENSE.txt",
-    "static/media/Signin.css": "/projectreact/static/media/signin.cdd5a3bc.png"
+    "static/css/main.a3d67d4e.chunk.css.map": "/projectreact/static/css/main.a3d67d4e.chunk.css.map",
+    "static/js/2.fef58ad5.chunk.js.LICENSE.txt": "/projectreact/static/js/2.fef58ad5.chunk.js.LICENSE.txt",
+    "static/media/Signin.module.css": "/projectreact/static/media/signin.cdd5a3bc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.04b957d6.js",
     "static/css/2.23fdb708.chunk.css",
-    "static/js/2.01c40475.chunk.js",
-    "static/css/main.2679f964.chunk.css",
-    "static/js/main.0dd29a4e.chunk.js"
+    "static/js/2.fef58ad5.chunk.js",
+    "static/css/main.a3d67d4e.chunk.css",
+    "static/js/main.6e9ad5f7.chunk.js"
   ]
 }
