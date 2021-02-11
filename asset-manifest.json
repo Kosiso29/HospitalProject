@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/projectreact/static/css/main.09623c39.chunk.css",
+    "main.css": "/projectreact/static/css/main.d0915dd0.chunk.css",
     "main.js": "/projectreact/static/js/main.7096e50a.chunk.js",
     "main.js.map": "/projectreact/static/js/main.7096e50a.chunk.js.map",
     "runtime-main.js": "/projectreact/static/js/runtime-main.04b957d6.js",
@@ -9,10 +9,10 @@
     "static/js/2.6c0dae04.chunk.js": "/projectreact/static/js/2.6c0dae04.chunk.js",
     "static/js/2.6c0dae04.chunk.js.map": "/projectreact/static/js/2.6c0dae04.chunk.js.map",
     "index.html": "/projectreact/index.html",
-    "precache-manifest.9a0327b19b6d01528cd008cd6554ad47.js": "/projectreact/precache-manifest.9a0327b19b6d01528cd008cd6554ad47.js",
+    "precache-manifest.10e0054b4bc9e10eaefe883711f3ddfa.js": "/projectreact/precache-manifest.10e0054b4bc9e10eaefe883711f3ddfa.js",
     "service-worker.js": "/projectreact/service-worker.js",
     "static/css/2.23fdb708.chunk.css.map": "/projectreact/static/css/2.23fdb708.chunk.css.map",
-    "static/css/main.09623c39.chunk.css.map": "/projectreact/static/css/main.09623c39.chunk.css.map",
+    "static/css/main.d0915dd0.chunk.css.map": "/projectreact/static/css/main.d0915dd0.chunk.css.map",
     "static/js/2.6c0dae04.chunk.js.LICENSE.txt": "/projectreact/static/js/2.6c0dae04.chunk.js.LICENSE.txt",
     "static/media/Signin.module.css": "/projectreact/static/media/signin.cdd5a3bc.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.04b957d6.js",
     "static/css/2.23fdb708.chunk.css",
     "static/js/2.6c0dae04.chunk.js",
-    "static/css/main.09623c39.chunk.css",
+    "static/css/main.d0915dd0.chunk.css",
     "static/js/main.7096e50a.chunk.js"
   ]
 }
